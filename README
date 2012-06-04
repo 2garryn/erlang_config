@@ -1,0 +1,12 @@
+Emacs command
+
+Shift-left and Shift-right - switch between tabbar buffers
+Ctrl+x 2 - two window from one
+Ctrl+x 0 - kill window
+Ctrl+x k - kill buffer
+
+Distel command
+Alt+Shift+? - complement
+Alt+.       - open file with fuction definition
+
+distel@localhost should be started for distel
